@@ -1,3 +1,5 @@
+[![Built with Hanzo](https://hanzo.ai/badges/built-with-hanzo.svg)](https://hanzo.ai/)
+
 - 👋 Hi, I’m @Major Dream Willams
 - 👀 I’m interested in building my SKOOL and AGENCY
 - 🌱 I’m currently learning Machine Learning, AI and Quantum Security
